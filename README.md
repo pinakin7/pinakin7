@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+---
+I am a B.Tech student in Artificial Intelligence and Machine Learning at Amity University in Mumbai.
+---
+After graduating from high school, I began coding. My enthusiasm for this profession has only increased over time. I'm more interested in topics like Blockchain and Artificial Intelligence. These developments pique my interest because they include using IT to solve a variety of business problems.
+---
+My main motivation is to share my professional knowledge with others. As companies become more inextricably connected to information technology, I aspire to use my experience to help bridge the technology-business divide.
+---
 <!--
 **pinakin7/pinakin7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
