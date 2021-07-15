@@ -11,7 +11,6 @@ I am a B.Tech student in Artificial Intelligence and Machine Learning at Amity U
 
 💬 Ask me about :
 - Data Science
--  Data Analysis
 -  Business Intelligence 
 -  Blockchain
 -  Artificial Intelligence 
@@ -21,6 +20,9 @@ I am a B.Tech student in Artificial Intelligence and Machine Learning at Amity U
 - Blockchain
 - Deep Reinforcement Learning
 
+🔭 I’m currently working on
+- Building a hybrid database
+- Building a system for Healthcare
 <!--
 **pinakin7/pinakin7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
