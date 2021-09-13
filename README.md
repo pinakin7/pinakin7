@@ -12,7 +12,6 @@ I am a B.Tech student in Artificial Intelligence and Machine Learning at Amity U
 💬 Ask me about :
 - Data Science
 -  Business Intelligence 
--  Blockchain
 -  Artificial Intelligence 
 -  Cloud Computing
 
