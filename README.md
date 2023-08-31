@@ -1,23 +1,21 @@
 <h1 align="center">Hi 👋, I'm Preet Viradiya</h1>
-<h3 align="center">An Artificial Intelligence student from India</h3>
+<h3 align="center">Computer Science Student at University of Toronto</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinakin7&label=Profile%20views&color=0e75b6&style=flat" alt="pinakin7" /> </p>
 
 <p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pinakin7" alt="pinakin7"  /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/viradiyapreet" target="blank"><img src="https://img.shields.io/twitter/follow/viradiyapreet?logo=twitter&style=for-the-badge" alt="viradiyapreet" /></a> </p>
-
 - 🔭 I’m currently working on **Blockchain Tele-Health Services**
 
-- 🌱 I’m currently learning **React Native, iOS-Development, Reinforcement Learning, IoT**
+- 🌱 I’m currently learning **Reinforcement Learning, Financial Data Analysis, Quantitative Trading**
 
-- 👯 I’m looking to collaborate on **Blockchain, AI, ML and IoT projects**
+- 👯 I’m looking to collaborate on **Machine Learning and Data Science Projects**
 
 - 📝 I regularly write articles on [https://preetviradiya.medium.com/](https://preetviradiya.medium.com/)
 
-- 💬 Ask me about **React, Android, Machine Learning Algorithms**
+- 💬 Ask me about **Machine Learning Algorithms, Data Science Techniques**
 
-- 📫 How to reach me **pinakin548@gmail.com**
+- 📫 How to reach me **devpreet2507@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -25,7 +23,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a style="margin:7px" href="https://twitter.com/viradiyapreet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="viradiyapreet" height="30" width="40" /></a>
 <a style="margin:7px" href="https://linkedin.com/in/preet-viradiya-2102881a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="preet-viradiya-2102881a3" height="30" width="40" /></a>
 <a style="margin:7px" href="https://kaggle.com/preetviradiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="preetviradiya" height="30" width="40" /></a>
 <a style="margin:7px" href="https://medium.com/@preetviradiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@preetviradiya" height="30" width="40" /></a>
