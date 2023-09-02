@@ -5,7 +5,7 @@
 
 <p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pinakin7" alt="pinakin7"  /></a> </p>
 
-- 🔭 I’m currently working on **Blockchain Tele-Health Services**
+- 🔭 I’m currently working as a **Tutorial TA for CSC301 at University of Toronto**
 
 - 🌱 I’m currently learning **Reinforcement Learning, Financial Data Analysis, Quantitative Trading**
 
