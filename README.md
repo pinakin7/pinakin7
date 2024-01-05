@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Machine Learning Algorithms, Data Science Techniques**
 
-- 📫 How to reach me **devpreet2507@gmail.com**
+- 📫 How to reach me **viradiyapreet@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
