@@ -5,11 +5,9 @@
 
 <p align="left" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pinakin7" alt="pinakin7"  /></a> </p>
 
-- 🔭 I’m currently working as a **Tutorial TA for CSC301 at University of Toronto**
+- 🔭 I’m currently working as a **Tutorial TA for CSC148 at University of Toronto**
 
-- 🌱 I’m currently learning **Reinforcement Learning, Financial Data Analysis, Quantitative Trading**
-
-- 👯 I’m looking to collaborate on **Machine Learning and Data Science Projects**
+- 🌱 I’m currently learning **Generative Modelling, Training and Architectural Methodologies, **
 
 - 📝 I regularly write articles on [https://preetviradiya.medium.com/](https://preetviradiya.medium.com/)
 
@@ -17,7 +15,7 @@
 
 - 📫 How to reach me **viradiyapreet@gmail.com**
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
